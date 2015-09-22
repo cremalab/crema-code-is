@@ -12,4 +12,6 @@
 
 ## Documented
 
+* To keep knowledge open and available.
+
 ## Organized
