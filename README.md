@@ -10,6 +10,8 @@
 
 ## Performant
 
+* To provide speed where it’s needed​
+
 ## Documented
 
 * To keep knowledge open and available.
