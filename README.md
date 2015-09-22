@@ -14,4 +14,6 @@
 
 * To keep knowledge open and available.
 
-## Organized
+## Clean
+
+* So there's no "ain't" in "maintainable".
