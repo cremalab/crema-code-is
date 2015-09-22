@@ -16,4 +16,4 @@
 
 ## Clean
 
-* So there's no "ain't" in "maintainable".
+* So there's no _ain't_ in _maintainable_.
