@@ -6,6 +6,8 @@
 
 ## Tested
 
+* So we can move fast _without_ breaking things.
+
 ## Performant
 
 ## Documented
